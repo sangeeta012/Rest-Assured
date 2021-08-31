@@ -49,7 +49,7 @@ public class Stringreverse {
             map.put(split[i], 1);
         }
     }
-    System.out.println("result2: ");
+    System.out.println("result3: ");
     System.out.println(map);
     
 //    map.put(split[1], map.get(split[1])+1);
