@@ -26,7 +26,7 @@ public class Stringreverse {
 //	        temp = x;
 //	        x = y;
 //	        y = temp;
-//	        System.out.println("After Swapping: x = " + x + " y = "+y);
+//	        System.out.prtintln("After Swapping: x = " + x + " y = "+y);
 //	         
 //	
 	
